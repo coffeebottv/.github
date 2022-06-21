@@ -1,6 +1,6 @@
 <!-- image -->
 # Hi traveler 👋
-<img src="./assets/banner.png" alt="CoffeeBot banner" />
+<img src="https://github.com/coffeebottv/.github/blob/main/profile/assets/banner.png" alt="CoffeeBot banner" />
 Welcome to CoffeeBot, a Discord bot that helps engage and moderate your community.
 
 
