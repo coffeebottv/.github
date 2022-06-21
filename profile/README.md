@@ -4,12 +4,12 @@
 Welcome to CoffeeBot, a Discord bot that helps engage and moderate your community.
 
 
-# ☕ What is CoffeeBot?
+## ☕ What is CoffeeBot?
 Discord is enabling developers to build bots that are not only fun, but also powerful. CoffeeBot is a currently under development Discord chat companion tool. CoffeeBot is an auto-moderation bot that can be used to moderate chat channels to make the process of decision making easier, while keeping your community fun and entertaining by implementing gamification and customizable econemy-system
 
 
 
-# 🌟 Features
+## 🌟 Features
 - [x] Level and experience from messages and voice chat
 - [X] Customizeable user badges and banners
 - [X] Custom commands
@@ -21,4 +21,4 @@ Discord is enabling developers to build bots that are not only fun, but also pow
 
 
 
-<!-- # 🔨 Contributing on CoffeeBot -->
+<!-- ## 🔨 Contributing on CoffeeBot -->
