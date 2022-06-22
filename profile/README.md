@@ -20,5 +20,9 @@ Discord is enabling developers to build bots that are not only fun, but also pow
 - [ ] Open source & open to public! 🥳
 
 
+## 🔨 Project
+Follow along on the project at [GitHub](https://github.com/orgs/coffeebottv/projects/2)
+
+
 
 <!-- ## 🔨 Contributing on CoffeeBot -->
