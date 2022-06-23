@@ -30,6 +30,13 @@ Discord is enabling developers to build bots that are not only fun, but also pow
 </p>
 
 
+## ⚙️ Version
+```
+Node.js: v16.13.0
+Discord.js: v13.8.0
+```
+
+
 ## 🔨 Project
 Follow along on the project at [GitHub](https://github.com/orgs/coffeebottv/projects/2)
 
